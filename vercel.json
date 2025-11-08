@@ -16,7 +16,7 @@
   },
   "build": {
     "env": {
-      "NEXT_PUBLIC_APP_URL": "https://your-domain.vercel.app"
+      "NEXT_PUBLIC_APP_URL": "https://nopalpage-webtoko.vercel.app"
     }
   }
 }
