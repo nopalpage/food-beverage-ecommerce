@@ -1,4 +1,4 @@
 - name: 'notify vercel'
   uses: 'vercel/repository-dispatch/actions/status@v1'
   with:
-    name: Vercel - food-beverage-ecommerce: lint
+    name: Vercel - food-beverage-ecommerce: vercel checker
