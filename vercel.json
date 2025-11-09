@@ -9,14 +9,14 @@
     }
   ],
   "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "NEXT_PUBLIC_SUPABASE_URL",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "NEXT_PUBLIC_SUPABASE_ANON_KEY",
-    "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY",
-    "STRIPE_SECRET_KEY": "STRIPE_SECRET_KEY"
+    "NEXT_PUBLIC_SUPABASE_URL": "@next_public_supabase_url",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@next_public_supabase_anon_key",
+    "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "@next_public_stripe_publishable_key",
+    "STRIPE_SECRET_KEY": "@stripe_secret_key"
   },
   "build": {
     "env": {
-      "NEXT_PUBLIC_APP_URL": "https://nopalpage-webtoko.vercel.app"
+      "NEXT_PUBLIC_APP_URL": "https://your-domain.vercel.app"
     }
   }
 }
